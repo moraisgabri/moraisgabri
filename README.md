@@ -25,7 +25,7 @@
   <img width="60" src="https://pics.freeicons.io/uploads/icons/png/14072054271548141949-512.png" />
   <img width="60" src="https://pics.freeicons.io/uploads/icons/png/21337745421536211768-512.png" />
   <img width="60" src="https://pics.freeicons.io/uploads/icons/png/15056343581551942278-512.png" />
-  <img width="60" src="https://pics.freeicons.io/uploads/icons/png/1888890291551942128-512.png" />
+  <img width="70" src="https://pics.freeicons.io/uploads/icons/png/1888890291551942128-512.png" />
   <img width="60" src="https://styled-components.com/logo.png" />
 </p>
 </p>
