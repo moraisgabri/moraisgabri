@@ -1,11 +1,11 @@
-### Olá, forasteiro! 🤙
+## Olá, forasteiro! 🤙
 
-# Me chamo José! e sou um Fullstack Jr em formação pela Trybe! 
+### Me chamo José! e sou um Fullstack Jr em formação pela Trybe! 
 
 <p align="left">
   
 <a target="_blank" href="https://www.linkedin.com/in/moraisgabri/">
-  <img align="middle" alt="LinkedIN" width="40px" src="![image](https://user-images.githubusercontent.com/51906564/117592874-9efe6f80-b110-11eb-9c1b-b6914407e3cd.png)" />
+  <img align="middle" alt="LinkedIN" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1620608718~hmac=8aeaed4251aa49ac73b9f3c05e2510bf" />
 </a>
 
 - 🔭 I’m currently working on ...
