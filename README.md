@@ -3,9 +3,7 @@
 </a>
 
 ### Me chamo José, tenho 21 anos residente em Recife, e Fullstack Jr em formação pela Trybe! <br>
-
 <p>
-<br></br>
 <img align="right" alt="me as octocat" width="500px" src="https://github.com/moraisgabri/moraisgabri/blob/main/myocto.png?raw=true" />
 
 - 🧑‍💻 Atualmente desenvolvo front-end, e mobile para a Coxinha Da Boa.
