@@ -12,12 +12,12 @@
 - 🧑‍💻 Atualmente desenvolvo front-end, e mobile para a Coxinha Da Boa.
 - 🧠 Estou na reta final de back-end na trybe. Adicionando à bagagem Node, Express e MongoDB.
 - ⚡ Fun facts: 
-  **Amo tanto gatos que tenho 4! 
-  **Sou entusiasta de animes antigos e obras cyberpunks! Meu favorito é __Akira__ (é até o nome do gatinho da foto).
-  **Não vivo sem música! e o meu gosto é bastante eclético ouço de Jazz à Grime, de Rock à Brega.
-  **Meu interesse por tecnologia e código é herdado do meu avô (assembly, VisualBasic) e meu pai (C#)
-  **PC Gamer frustrado
-  **Sofredor do Sport Clube do Recife
+  -Amo tanto gatos que tenho 4! 
+  -Sou entusiasta de animes antigos e obras cyberpunks! Meu favorito é __Akira__ (é até o nome do gatinho da foto).
+  -Não vivo sem música! e o meu gosto é bastante eclético ouço de Jazz à Grime, de Rock à Brega.
+  -eu interesse por tecnologia e código é herdado do meu avô (assembly, VisualBasic) e meu pai (C#)
+  -PC gamer frustrado
+  -Sofredor do Sport Clube do Recife
   
   ### Linguagens e Frameworks: 
 <p>
