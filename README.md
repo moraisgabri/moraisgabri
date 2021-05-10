@@ -1,9 +1,12 @@
-### Hi there 👋
+### Olá, forasteiro! 🤙
 
-<!--
-**moraisgabri/moraisgabri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Me chamo José! e sou um Fullstack Jr em formação pela Trybe! 
 
-Here are some ideas to get you started:
+<p align="left">
+  
+<a target="_blank" href="https://www.linkedin.com/in/moraisgabri/">
+  <img align="middle" alt="LinkedIN" width="40px" src="![image](https://user-images.githubusercontent.com/51906564/117592874-9efe6f80-b110-11eb-9c1b-b6914407e3cd.png)" />
+</a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
