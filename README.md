@@ -25,10 +25,11 @@
   ### Linguagens e Frameworks: 
 <p>
 </br>
-  <img width="50" src="https://www.flaticon.com/svg/vstatic/svg/1260/1260775.svg?token=exp=1620613555~hmac=9b400cb0cdad8230cfd907d5cb0b4b7f" />
-  <img width="50" src="https://www.flaticon.com/svg/vstatic/svg/541/541509.svg?token=exp=1620614226~hmac=46395d4badc356822cafba95bf9c1fd2" />
-  <img width="50" src="https://www.flaticon.com/svg/vstatic/svg/888/888909.svg?token=exp=1620614277~hmac=ebcfcb71c8f05d0de2cd96636eb77f3f" />
-  <img width="50" src="https://www.flaticon.com/svg/vstatic/svg/888/888847.svg?token=exp=1620614386~hmac=ab066127d320634eb353de64ded38c9f" />
-  <img width="50" src="https://www.flaticon.com/svg/vstatic/svg/919/919825.svg?token=exp=1620614481~hmac=7d0960499728c5169497f5d906450557" />
+  <img width="50" src="https://pics.freeicons.io/uploads/icons/png/20167174151551942641-512.png" />
+  <img width="50" src="https://www.freeicons.io/vector-and-svg-logos-icons-09/javascript-icon-icon" />
+  <img width="50" src="https://pics.freeicons.io/uploads/icons/png/14072054271548141949-512.png" />
+  <img width="50" src="https://pics.freeicons.io/uploads/icons/png/21337745421536211768-512.png" />
+  <img width="50" src="https://pics.freeicons.io/uploads/icons/png/15056343581551942278-512.png" />
+  <img width="50" src="https://pics.freeicons.io/uploads/icons/png/1888890291551942128-512.png" />
 </p>
 </p>
