@@ -1,9 +1,11 @@
 ## Olá, forasteir@! 🤙
 
-### Me chamo José, tenho 21 anos residente em Recife, e Fullstack Jr em formação pela Trybe! <br> <a target="_blank" href="https://www.linkedin.com/in/moraisgabri/">
+### Me chamo José, tenho 21 anos residente em Recife, e Fullstack Jr em formação pela Trybe! <br>
+<br></br>
+<a target="_blank" href="https://www.linkedin.com/in/moraisgabri/">
   <img align="middle" alt="LinkedIN Icon" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1620608718~hmac=8aeaed4251aa49ac73b9f3c05e2510bf" />
 </a>
-
+<br></br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=moraisgabri&theme=gruvbox&hide=issues&show_icons=true" />
 
 <img align="right" alt="me as octocat" width="500px" src="https://github.com/moraisgabri/moraisgabri/blob/main/myocto.png?raw=true" />
