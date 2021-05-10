@@ -4,10 +4,9 @@
   <img align="middle" alt="LinkedIN Icon" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1620608718~hmac=8aeaed4251aa49ac73b9f3c05e2510bf" />
 </a>
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=moraisgabri&theme=gruvbox&hide=issues&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=moraisgabri&theme=gruvbox&hide=issues&show_icons=true" />
+
 <img align="right" alt="me as octocat" width="500px" src="https://github.com/moraisgabri/moraisgabri/blob/main/myocto.png?raw=true" />
-</p>
 
 - 🧑‍💻 Atualmente desenvolvo front-end, e mobile para a Coxinha Da Boa.
 - 🧠 Estou na reta final de back-end na trybe. Adicionando à bagagem Node, Express e MongoDB.
