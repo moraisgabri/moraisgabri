@@ -26,12 +26,12 @@
   ### Linguagens e Frameworks: 
 <p>
 </br>
-  <img width="50" src="https://pics.freeicons.io/uploads/icons/png/20167174151551942641-512.png" />
-  <img width="50" src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png" />
-  <img width="50" src="https://pics.freeicons.io/uploads/icons/png/14072054271548141949-512.png" />
-  <img width="50" src="https://pics.freeicons.io/uploads/icons/png/21337745421536211768-512.png" />
-  <img width="50" src="https://pics.freeicons.io/uploads/icons/png/15056343581551942278-512.png" />
-  <img width="50" src="https://pics.freeicons.io/uploads/icons/png/1888890291551942128-512.png" />
-  <img width="50" src="https://styled-components.com/logo.png" />
+  <img width="60" src="https://pics.freeicons.io/uploads/icons/png/20167174151551942641-512.png" />
+  <img width="60" src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png" />
+  <img width="60" src="https://pics.freeicons.io/uploads/icons/png/14072054271548141949-512.png" />
+  <img width="60" src="https://pics.freeicons.io/uploads/icons/png/21337745421536211768-512.png" />
+  <img width="60" src="https://pics.freeicons.io/uploads/icons/png/15056343581551942278-512.png" />
+  <img width="60" src="https://pics.freeicons.io/uploads/icons/png/1888890291551942128-512.png" />
+  <img width="60" src="https://styled-components.com/logo.png" />
 </p>
 </p>
