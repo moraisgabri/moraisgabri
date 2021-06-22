@@ -6,8 +6,7 @@
 <p>
 <img align="right" alt="me as octocat" width="500px" target="_blank" src="https://github.com/moraisgabri/moraisgabri/blob/main/myocto.png?raw=true" />
 
-- 🧑‍💻 Atualmente desenvolvo front-end, e mobile para a Coxinha Da Boa.
-- 🧠 Estou na reta final de back-end na trybe. Adicionando à bagagem Node, Express e MongoDB.
+- 🧑‍💻 Atualmente sou Fullstack Jr na CUBi Energia.
 * ⚡ Fun facts:
   * Eu __AMO__ _STYLED COMPONENTS!_
   * Amo tanto gatos que tenho 4!
