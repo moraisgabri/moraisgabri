@@ -22,6 +22,7 @@
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25px"/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25px"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="25px"/>
+  <img alt="Git" src ="https://img.shields.io/badge/Git%234ea94b.svg?&style=for-the-badge&logo=git&logoColor=white" height="25px"/>
   <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" height="25px"/>
 </p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=moraisgabri&theme=gruvbox&hide=issues&show_icons=true" />
