@@ -19,6 +19,6 @@
   <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" height="25px"/>
 </p>
   </br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=moraisgabri&theme=gruvbox&hide=issues&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=moraisgabri&theme=tokyonight&hide=issues&show_icons=true" />
 </p>
 
