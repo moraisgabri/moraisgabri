@@ -1,8 +1,6 @@
 ## Olá, web forasteir@! 🤙
 ### Me chamo José, tenho 24 anos residente em Recife, e desenvolvedor Full Stack Pleno <br>
 <p>
-<img align="right" alt="me as octocat" width="500px" target="_blank" src="https://github.com/moraisgabri/moraisgabri/blob/main/myocto.png?raw=true" />
-
 - 🧑‍💻 Atualmente sou Full Stack na CUBi Energia.
   
   ### Linguagens e Frameworks: 
