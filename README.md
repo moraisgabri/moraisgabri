@@ -1,8 +1,4 @@
 ## Olá, web forasteir@! 🤙
-<a target="_blank" href="https://www.linkedin.com/in/moraisgabri/">
-  <img href="" align="middle" alt="LinkedIN Icon" width="40px" src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" />
-</a>
-
 ### Me chamo José, tenho 24 anos residente em Recife, e desenvolvedor Full Stack Pleno <br>
 <p>
 <img align="right" alt="me as octocat" width="500px" target="_blank" src="https://github.com/moraisgabri/moraisgabri/blob/main/myocto.png?raw=true" />
