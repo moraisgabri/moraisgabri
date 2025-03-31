@@ -1,7 +1,6 @@
 ## Olá, web forasteir@! 🤙
-### Me chamo José, tenho 24 anos residente em Recife, e desenvolvedor Full Stack Pleno <br>
+### Me chamo José, tenho 25 anos residente em Recife, e desenvolvedor Full Stack Pleno <br>
 <p>
-- 🧑‍💻 Atualmente sou Full Stack na CUBi Energia.
   
   ### Linguagens e Frameworks: 
 <p>
